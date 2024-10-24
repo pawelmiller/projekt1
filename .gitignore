@@ -1,0 +1,5 @@
+*.conf
+__pycache__
+#test_case_1.py
+.vscode
+.pytest_cache
